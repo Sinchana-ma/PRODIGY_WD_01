@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  #navbar {
+    transition: background-color 0.3s;
+  }
+  
+ 
+  
+  #courses .card {
+    transition: transform 0.3s;
+  }
+  
+  #courses .card:hover {
+    transform: scale(1.05);
+  }
+  
+  footer {
+    background-color: #343a40;
+  }
+  
+ 
+  .navbar-scrolled {
+    background-color: #343a40;
+  }
+  
